@@ -1,0 +1,1 @@
+{"name":"evident-discovery-examples","private":true,"version":"0.13.0","type":"module","engines":{"node":">=22.13.0"},"dependencies":{"@modelcontextprotocol/sdk":"1.30.1"}}

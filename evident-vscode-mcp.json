@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "evident": {
+      "type": "http",
+      "url": "https://evidentagents.com/mcp"
+    }
+  }
+}
